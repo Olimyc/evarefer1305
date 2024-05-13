@@ -1,1 +1,39 @@
-# evarefer1305
+1.	Abu Zant, M., & Yasin, A. (2019). Avoiding and Isolating Flooding Attack by Enhancing AODV MANET Protocol (AIF_AODV). Security Communication Networks.
+2.	AL-Dhief F.T, Naseer Sabri, M.S. Salim, S. Fouad, S. A. Aljunid, (2018). MANET Routing Protocols Evaluation: AODV, DRS, and DSDV Perspective, MATEC Web of Conferences 150, 06024, 2018, pp 1-6.
+3.	Al-Dhelaan M.A. (2017) An Overview of Ad-Hoc On-Demand Distance Vector (AODV) Routing Protocol and Its Security Challenges, International Journal of Computer Networks and Communications Security, pp1137 – 1151. 
+4.	Ankita Singh & Mahima Sharma (2016). Cryptography Techniques based on Security of AODV in MANETs - A Survey. International Journal of Science and Research (IJSR), Online: 2319-7064 Volume 5 Issue 4, April 2016, pp. 1002-1007.
+5.	Adarsh D. V. & Chandrika C.N. (2015). Black Hole Prevention Using Digital Signatures and Hash Function in AODV Protocol. International Journal of Engineering Research and Technology (IJETR), NCACCT 2015 Conference Proceedings, ISSN 2278-0181. Pp. 1-4.
+6.	Ad hoc On-Demand Distance Vector (AODV) Routing on Wikipedia: How it works and Evaluation Retrieved but last edited on 19 November, 2023, Accessed on 08 April, 2024.  
+7.	A. Kumar (2019), “Design and development of a new framework for the detection and mitigation of wormhole and black hole attacks in VANET, Journal of. Statistics. Manage System.
+8.	Baivab Kumar Jena, (2023)., Digital Signature Algorithm (DSA) in Cryptography: A Complete Guide, (https.simplilearn.com/tutorials/cryptography-tutorials/ digital signature-algorithm, 2023). Accessed on 08 April, 2024.
+9.	Blackhole, https://www.cisco.com/c/dam/en_us/about/security/intelligence/blackhole.pdf. (PDF). Cisco.com. Retrieved on 25 June, 2023, Accessed on 12 February, 2024.
+10.	Fazeldehkardi E. (2016), A Study of Black Hole Attack Solution on AODV Routing Protocol in MANET, University of Malaya, Kuala Lumpur, Malaysia, 2016 book published on www.sciencedirect.com 
+11.	Deji-Akinpelu O. O. (2022), Development of an Ensemble Routing Protocol to minimize Sleep Deprivation Attack (SDA) in MANETs, Computer Science Dept. University of Ibadan.
+12.	Fall, K., & Varadhan, K.: (2017) Ns-2, the ns manual (formally known as ns documentation) available at http: //www. isi.edu/nsnam/ns/doc.
+13.	Reina D.G. (2014), “A survey on ad hoc networks for disaster scenarios,” in Proceedings - 2014 International Conference on Intelligent Networking and Collaborative Systems, IEEE INCoS 2014, 2014, pp. 433–438.
+14.	G. Jothiamani, R.Kavitha (2014). Digital Signature Algorithm (DSA) Based Secure Intrusion-Detection System for MANETs, International Journal of Computer Sci.& Mobile Computing, 2014 Vol. 3, Issue 9, pg 782 – 791.
+15.	Gadzama EH and Saidu IR (2022), Developing an Efficient Hybridized Routing Protocol for Mitigatinh of Flooding Attacks in MANETs, NDA Journal of Military Science and Discipline Studies. Vol. 1, Issue June 2022, pp 1 - 8.
+16.	Gouri Upadthyay, Aditya Kumar and Aradhama Sahu, (2019). Digital Signature Authentication Scheme (DSAS) to detect Blackhole Attack in MANETs, Journal for Emerging Technologies and Innovative Research (JETIR) May 2019, Volume 6, Issue 5. www.jetir.org (ISSN-2349-5162). Pp 106 – 119.
+17.	S. Goswami, S. Joardar, C. Bikash Das, S. Kar and D.K. Pal, (2017). Performance Analysis of Three Routing Protocols in MANET Using the NS-2 and ANOVA Test with Varying Speed of Nodes Intechopen.com Page 54156, DOI: 10.5772/66521, May 2017).
+18.	Hajiheidari, S., Wakil, K.,Badri, M., Abid  Yahya & Navimipour, N.J. (2019). Intrusion detection systems in the Internet of things: A Comprehensive Investigation, Journal of Computer Networks, 160, pp 165-169.
+19.	Hassnawi L. R.Badisha A.  & Aljunid A. (2012). Performance Analysis of various Routing Protocols for Motorway Surveillance System Cameras’ Network, International Journal of Computer Science Issues (IJSCI), Vol.9 Issue 2, No 1, March 2012.
+20.	Huda K. (2018) A Comprehensive Review of Secure AODV Routing Protocols on Raspberry Pi Based MANETs, International Journal of Computer Networks and Communications Security (IJCNCS).
+21.	Karim F.B and Sajid T.S, (2018). On Security of the Ad-Hoc On-Demand Distance Vector (AODV) Routing Protocol International Journal of ACU, Vol. 9 No. 2 2018.
+22.	Kumar A. (2020). Black hole attack detection in Vehicular ad-hock Network using  Secure AODV Routing Algorithm, Ankit Kumar, Microprocessors and Microsystems, https://doi.org/10.1016/j.micpro 2020.103352. Accessed on 12 February, 2024.
+23.	Kumar V.V & Ramamoorthy S. (2018). Secure Ad-hoc On-demand Multipath Distance Vector Routing in MANET. Paper Presented at the Proceedings of the International Conference on Computing and Communication Systems.
+24.	Mallikarjuna N. & Anusha K. (2020). An Optimized and Hybrid Energy Aware Routing Model for Effective Detection of Flooding Attacks in MANET Environment, Research Square, VIT University, Chennai, India.
+25.	Mankotia V, Sunkaria R.K.& Gurung S.  (2023). DT-AODV: a dynamic threshold protocol against black-hole attack in MANET. Sādhanā Vol. 48, pp. 190 (2023). https://doi.org/10.1007/s12046-023-02227-8
+26.	Monoharan R., & Gananasekar I. (2016), Congestion Control Using AODV Protocol Scheme for Wireless Ad-hoc Network., Advances in Computer Science and Engineering, 16(1-2) 19-37, https://doi.org/10.17654CS016120019.
+27.	Mobile Ad hoc Network (MANET): Definition and Overview, https://www.netacad.com/ courses/, Accessed on 21 April, 2021.
+28.	Muhammad (2020) A Review of Encrypted Algorithm Development for Ad-Hoc On-Demand Distance Vector (AODV) Routing Protocols on Raspberry Pi Based MANETs, IEEE Accessed, on 27 July 2022.
+29.	O. Osunade, (2014). Protocol for Reducing the Routing Overhead in MANETs. Journal of Innovative Research in Computer and Communication Engineering (Vol. 2, Issue 4, 2014)
+30.	Paolo, P., Luca C., & Dario M. (2017). An Anonymous inter-networks Routing Protocol for the internet of Things, Journal of Cyber Security and Mobility. 6(2), 127-146.
+31.	R. Jayaraj and T. Suresh (2021). Application of TCP/IP for Mobile Ad Hoc Network. Indonesian Journal of Electrical Engineering Research and Technology. vol. 21. pp 420 - 428.
+32.	Sowande O.A Salami R., Adebowale Q.R., Nasir Farouk, Olawoyin L.A., Adeniran T.C., Oloyede A.A.  (2019). Comparative Study of Routing Protocol Performance in Mobile Ad-hoc Network of International Journal of Information Processing and Communication (IJPC) Vol. 7 No 1, (May 2019), pp 102-113.
+33.	Ofosu K.K. Abdulai Jamai-Deen & Katsriku F.A., (2018) “Performance Evaluation of Mobile IPon Mobile Ad-hos Network Using NS2,” Journal of Computer Science and Information Technology (ITCS, Computer Science Conference Proceedings (CSCP) pp 15-27, doi:1051221csit.2018.80302,
+34.	Than &Thai Ngoc, (2017). Routing Protocol reduces the harm of flooding attacks in mobile ad-hoc network. Journal of Communications, Vol.2(7), pp 371-378.
+35.	Van Luu Xuan, Hoa Doan Van & Dung Luu Hong, (2022). Constructing Digital Signature Algorithm Based on a New Key Scheme, Conference paper, First Online:  07 January 2022, pp 11–21, https://link.springer.com/chapter/10.1007/978-981-16-5655-2_2, 
+36.	Vimal V. & Nigam M.J, (2017). Plummeting Flood Based Distributed-DoS attack to upsurge Networks Performance in Ad-hoc Network using Neighbourhood Table Technique. Paper Presented at the TENCON, IEEE Region 10 Conference. 
+37.	Wenchao, L., P. & Li, J. (2014), “A New Intrusion Detection System Based on KNN Classification Algorithm in Wireless in MANETs, International Journal of Computer Applications Buddha University Greater Noida, India. 93(9), 0975 – 888.
+38.	Zafar, S. Tariq H. & Manzoor K., (2016). Throughput and Delay analysis of AODV, DSDV and DSR Routing Protocols in MANETs. International Journal of Computer Networks and Applications (IJNA), Vol 3(2), pp 1-7.
+39.	Zahra A., Jayad M.M. Kuchaki R., (2012).  A new method for improving security in MANETs AODV Protocol, Journal of Corresponding Author. doi: 10.5267/j.msl.2012.08.018, pp 2271–2280.
